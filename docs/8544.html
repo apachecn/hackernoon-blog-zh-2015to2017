@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Things you can’t do in Rust: variadic functions</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">Rust中不能做的事情:可变函数</h1>
+<blockquote>原文：<a href="https://medium.com/hackernoon/things-you-cant-do-in-rust-variadic-functions-389df3bd91e7?source=collection_archive---------29-----------------------#2017-12-05">https://medium.com/hackernoon/things-you-cant-do-in-rust-variadic-functions-389df3bd91e7?source=collection_archive---------29-----------------------#2017-12-05</a></blockquote><div><div class="ef hi hj hk hl hm"/><div class="hn ho hp hq hr"><div class=""/><p id="8d71" class="pw-post-body-paragraph ir is hu it b iu iv iw ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo hn dt translated">我爱Rust，希望它更好。开发团队知道提出的所有问题。我只是想引发讨论和热情，让一门好的语言变得更好。</p><pre class="jp jq jr js fq jt ju jv jw aw jx dt"><span id="141a" class="jy jz hu ju b fv ka kb l kc kd">#![feature(c_variadic)]<br/>#[no_mangle]<br/>pub unsafe extern "C" fn func(fixed: u32, mut args: ...) {<br/>   let x: u8 = args.arg();<br/>   let y: u16 = args.arg();<br/>   let z: u32 = args.arg();<br/>   println!("{} {} {} {}", fixed, x, y, z);<br/>}</span></pre><p id="9bcd" class="pw-post-body-paragraph ir is hu it b iu iv iw ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo hn dt translated">结果(编译时错误):</p><pre class="jp jq jr js fq jt ju jv jw aw jx dt"><span id="5a7c" class="jy jz hu ju b fv ka kb l kc kd"><strong class="ju hv">error[E0554]: #[feature] may not be used on the stable release channel<br/>  |<br/>1</strong> <strong class="ju hv">| </strong>#![feature(c_variadic)]<br/>  <strong class="ju hv">| ^^^^^^^^^^^^^^^^^^^^^^^</strong></span><span id="1a51" class="jy jz hu ju b fv ke kb l kc kd"><strong class="ju hv">error: aborting due to previous error(s)</strong></span></pre><p id="ef42" class="pw-post-body-paragraph ir is hu it b iu iv iw ix iy iz ja jb jc jd je jf jg jh ji jj jk jl jm jn jo hn dt translated">Rust有可变的宏。Rust可以使用C变量函数。RFC 2137只涵盖了从Rust内部定义变量函数的情况。很难考虑垃圾收集和生命周期，所以这个特性可能会局限于基本类型或类似的折衷。也许这只是与宏重叠，该功能是不必要的。</p></div></div>    
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Non blocking code in Go (Part 1)</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">Go中的非阻塞代码(第1部分)</h1>
+<blockquote>原文：<a href="https://medium.com/hackernoon/non-blocking-code-in-go-part-1-6c13971c47b6?source=collection_archive---------5-----------------------#2016-12-07">https://medium.com/hackernoon/non-blocking-code-in-go-part-1-6c13971c47b6?source=collection_archive---------5-----------------------#2016-12-07</a></blockquote><div><div class="ef ho hp hq hr hs"/><div class="ht hu hv hw hx"><div class=""/><p id="c74f" class="pw-post-body-paragraph ix iy ia iz b ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr js jt ju ht dt translated">最小化互斥量。</p><p id="62d5" class="pw-post-body-paragraph ix iy ia iz b ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr js jt ju ht dt translated">这主要是一个检查如何以非阻塞方式编写代码的练习。sync包中可用的互斥体是保护内存免受不良事件影响的一种完全可以接受的方式——例如，未同步的写入程序。</p><p id="62c4" class="pw-post-body-paragraph ix iy ia iz b ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr js jt ju ht dt translated">我还应该指出，“<a class="ae jv" href="https://blog.golang.org/share-memory-by-communicating" rel="noopener ugc nofollow" target="_blank"> <strong class="iz ib"> <em class="jw">通过交流分享记忆</em> </strong> </a>”仍然是你写围棋时应该牢记的口头禅。</p><p id="9bc2" class="pw-post-body-paragraph ix iy ia iz b ja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr js jt ju ht dt translated">有几个可以阻塞的代码示例——通过使用互斥体，或者以缓慢的方式从chan中读取。还有…</p></div></div>    
+</body>
+</html>
