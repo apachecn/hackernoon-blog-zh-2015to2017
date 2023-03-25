@@ -1,0 +1,17 @@
+# 黑客写真相(&猫)
+
+> 原文：<https://medium.com/hackernoon/hackers-write-about-truth-cats-65c1887a3aca>
+
+[![](img/36149cb4628149edcfc7eadf17e08669.png)](http://hackernoon.com)![](img/f276545f397e993541f5087bd2cb5c82.png)
+
+[***现招聘:完成此 MVP 帮助作家获得赞助(Rails App)***](https://hackernoon.com/now-hiring-complete-this-mvp-to-help-writers-get-sponsored-rails-app-e57e15452472#.w1eykj2kg)
+
+上个月的头条新闻是:谷歌高级交互设计师[、**给你的猫做年度绩效评估的指南》。上图是他的猫莱纳斯，它无视着装规范，戴着骷髅头和十字骨首饰。深深地看着那双绿色的眼睛。这些客观的指导方针将确保您的猫得到顶级技术专家的严格优化技术的管理。**](https://medium.com/u/d30598ce6ec3#.jmcb15ipc)
+
+第二个表现最好的故事是我们实用幽默的风格:“ [**我学到的 10 件事打造世界上最快的网站**](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.3p6ch4l43)**”**作者 [**《程序员订飞机指南**](https://medium.com/u/f735d3b0f2f3#.uoi8dtd21)**作者 [**“我给自己做了一面智能镜子**](https://medium.com/u/6328301c72f7#.3zc9r1h8t)**作者[我花了 116 天从 0 到 1 个客户](https://medium.com/u/28152e5115c2#.blfucg6zh)作者 [**《线下 App 架构:如何为下一个十亿打造**](https://medium.com/u/224b2699167a#.ni0pm3d4c)**》**安卓工匠 [**“我是如何将 React 应用转换成 VanillaJS 的(以及这是否是一个糟糕的想法)**](https://medium.com/u/40499e50fc3b#.yae65ynsm)**作者也是 [**“原生手机 App 开发成本太高该死！**](https://medium.com/u/f735d3b0f2f3#.yicjjn182)**这个由开发者提出的价值主张[**《2016 年 web 开发者热门新 github 库 27 个**](https://medium.com/u/695782484bda#.n7i4nogto)**》**作者 [**《深度学习小抄**](https://medium.com/u/dc04edb5b99#.8hh64ancv)**作者 [**“我学到的关于产品管理的 50 件事**](https://medium.com/u/ffc675bc4563#.4hq9xy9eg)**[亲爱的产品经理……](https://medium.com/u/4c3f4fe11e6b#.efoj73tjc)，[下注](https://hackernoon.com/place-your-bets-4022b732ba4c#.igrjiq7dv)，[你在特色工厂工作的 12 个标志](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2#.swcon880r) & [一个 12 步的产品经理恢复计划](https://hackernoon.com/a-12-step-program-for-recovering-product-managers-cd02fb2b6709#.rkvvhliog)。************
+
+******[**【我 10 岁如何学会 Javascript】**](https://hackernoon.com/how-my-10-year-old-learned-javascript-d8782b586db7#.88ne0nkn4)**作者[“谁说 Javascript 容易？”Aurélien Hervé](https://medium.com/u/4232c27b6fb8#.blfucg6zh) 。********
+
+******[**《⭐️论指数观**](https://hackernoon.com/on-the-exponential-view-75cd24525d14#.u1ttpdmin)**由企业家、发明家、创造者 [**我的风险投资之道**](https://medium.com/u/83723c0aa9f9#.eik6ym4jx)IA Ventures 执行合伙人 [*现在招聘:完成这个 MVP 帮助作家获得赞助(Rails App)*](https://medium.com/u/17f2e3228b95#.w1eykj2kg)********
+
+*******P.P.S.*** 阅读 [**黑客正午趋势**](http://l.facebook.com/l.php?u=http%3A%2F%2Fhackernoon.com%2Ftrending&h=PAQGUYJGm) (按标签)了解是什么让黑客滴答作响:[编程](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fprogramming&h=PAQGUYJGm)，[创业](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fstartup&h=PAQGUYJGm)，[创业](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fentrepreneurship&h=PAQGUYJGm)， [Web 开发](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fweb-development&h=PAQGUYJGm)，[软件开发](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fsoftware-development&h=PAQGUYJGm)，[风险投资](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fventure-capital&h=PAQGUYJGm)， [JavaScript](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fjavascript&h=PAQGUYJGm) ，[商业](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackernoon.com%2Ftagged%2Fbusiness&h=PAQGUYJGm)，****
